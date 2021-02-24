@@ -1,1 +1,5 @@
-
+.flex-end{
+    text-align: initial;
+    display: flex;
+    align-items: flex-end;
+}
